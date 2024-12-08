@@ -1,4 +1,4 @@
-name: Sync Notion Content 2
+name: Sync Notion Content 
 
 on:
   schedule:
@@ -59,3 +59,4 @@ jobs:
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
