@@ -19,17 +19,17 @@ jobs:
           node-version: "18"
 
       - name: Install Dependencies
-        run: |
-          cd project
-          npm install
+        working-directory: project
+        run: 
+    cd project
+    npm install
 
       - name: Fetch Notion Content
+        working-directory: project
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
-        run: |
-          cd project
-          node notion-sync.js
+        run: node notion-sync.js
 
       - name: Commit and Push Changes
         run: |
