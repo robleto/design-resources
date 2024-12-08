@@ -1,5 +1,4 @@
-name: Fetch and Commit Notion Content
-
+name: Sync Notion Content 
 
 on:
   schedule:
