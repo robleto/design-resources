@@ -1,5 +1,6 @@
 name: Fetch and Commit Notion Content
 
+
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
