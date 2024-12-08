@@ -16,7 +16,7 @@ async function fetchNotionPage() {
     const markdown = n2m.toMarkdownString(mdBlocks);
 
     // Save to a markdown file
-    fs.writeFileSync("readme.md", markdown.parent);
+    fs.writeFileSync("notion-content.md", markdown.parent);
     console.log("✅ Notion content synced as Markdown!");
   } catch (error) {
     console.error("❌ Error fetching Notion content:", error.message);
