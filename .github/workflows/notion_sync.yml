@@ -1,4 +1,4 @@
-name: Sync Notion Content 
+name: Sync Notion Content 2
 
 on:
   schedule:
@@ -25,35 +25,37 @@ jobs:
         with:
           node-version: '20'
 
+      # Step 3: Install dependencies in 'project' directory
       - name: Install dependencies
+        working-directory: ./project
         run: npm install
 
-      # Step 3: Fetch Notion Content
+      # Step 4: Fetch Notion Content in 'project' directory
       - name: Fetch Notion Content
+        working-directory: ./project
         run: node notion-sync.js
 
-      # Step 4: Configure Git
+      # Step 5: Configure Git
       - name: Configure Git
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-      # Step 5: Pull Remote Changes Before Committing
+      # Step 6: Pull Remote Changes Before Committing
       - name: Pull Remote Changes
         run: |
           git fetch origin main
           git pull --rebase origin main
 
-      # Step 6: Track Untracked Files
+      # Step 7: Track Untracked Files
       - name: Track Untracked Files
         run: |
           git add -A
 
-      # Step 7: Commit and Push Changes
+      # Step 8: Commit and Push Changes
       - name: Commit and Push Changes
         run: |
           git commit -m "Update: Fetched new Notion content" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
