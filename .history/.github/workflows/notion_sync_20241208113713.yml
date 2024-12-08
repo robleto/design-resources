@@ -33,6 +33,7 @@ jobs:
 
       # Step 4: Fetch Notion Content (in project/)
       - name: Fetch Notion Content
+        working-directory: ./project
         run: |
            cd project
            node notion-sync.js

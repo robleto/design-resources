@@ -33,9 +33,9 @@ jobs:
 
       # Step 4: Fetch Notion Content (in project/)
       - name: Fetch Notion Content
-        run: |
-           cd project
-           node notion-sync.js
+        working-directory: ./project
+        run: 
+          node notion-sync.js
 
       # Step 5: Configure Git
       - name: Configure Git
