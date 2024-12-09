@@ -1,8 +1,8 @@
 
-# Design Resources
+# Robleto Design Resources
 
 
-_A curated collection of links to articles, sites, and resources that have shaped my professional design work and personal development—compiled by Greg Robleto (robleto.com)._ 
+_A curated collection of links to articles, sites, and resources that have shaped my professional design work and personal development—compiled by Greg Robleto (www.robleto.com)._ 
 
 
 ## Table of Contents
