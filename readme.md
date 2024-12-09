@@ -53,7 +53,7 @@ Design
 
 
 
-	---
+---
 
 
 ![image](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
@@ -63,9 +63,6 @@ Design
 
 
 > From Design Thinking to Lean UX, proven frameworks guide teams through complex design challenges with systematic, user-centered approaches that transform ideas into impactful solutions.
-
-
----
 
 
 ### **2.1 Design Thinking** 
@@ -111,9 +108,6 @@ Design
 > Explore a world of creative inspiration through expertly curated collections featuring exceptional designs, innovative interfaces, and transformative digital experiences.
 
 
----
-
-
 ### Dark Mode Inspiration
 
 - [Dark Design](https://www.dark.design/): A curated collection of the finest dark-themed websites, handpicked by designers for designers.
@@ -156,6 +150,9 @@ Design
 - [Footer Design](https://www.footer.design/): Presents website footers organized by category.
 - [Refero](https://refero.design/): Houses design references from web applications.
 - [Siteinspire](https://siteinspire.com/): Exhibits web designs across various industries.
+
+---
+
 
 ### Design Collections
 
