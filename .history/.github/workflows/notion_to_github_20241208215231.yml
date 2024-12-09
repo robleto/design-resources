@@ -1,4 +1,4 @@
-name: Notion to Github Sync
+name: Sync Notion Content 
 
 on:
   schedule:

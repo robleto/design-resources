@@ -1,4 +1,4 @@
-name: Github to Notion Sync
+name: Update Notion to  GitHub Push
 
 on:
   push:
