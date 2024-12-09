@@ -38,15 +38,8 @@ _The 101 of becoming a designer_
 - [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams’ classic take on what makes design _actually_ good—spoiler: it’s not about being flashy.
 - [Principles.Design](https://principles.design/): A treasure trove of design principles to help you make smarter, more user-friendly choices.
 - [Laws of UX](https://lawsofux.com/): Quick-hit psychology lessons for creating designs that feel natural, intuitive, and just plain right.
-
-[Principles of Grids](https://grids.obys.agency/)
-
-
-[Design KPIs](https://www.linkedin.com/posts/vitalyfriedman_design-business-kpis-activity-7021371065578737664-EalQ/)
-
-
-child_database
-
+- [Principles of Grids](https://grids.obys.agency/): Obys Agency's educational project offers a fresh take on grid systems, showcasing the layouts they use daily with engaging storytelling.
+- [Design KPIs](https://www.linkedin.com/posts/vitalyfriedman_design-business-kpis-activity-7021371065578737664-EalQ/): Vitaly Friedman's LinkedIn post delves into key performance indicators for design, emphasizing metrics that align design efforts with business goals.
 
 ---
 
@@ -54,120 +47,44 @@ child_database
 # 02.  Design Strategies & Frameworks
 
 
+![image](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
+2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
+3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)
+4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)
+5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
+
 ### **Design Thinking** 
 
-
-[bookmark](https://www.designkit.org/methods)
-
-
-[IBM Design Thinking](https://www.youtube.com/watch?v=pXtN4y3O35M&feature=youtu.be)
-
-
-[Design Thinking & Ethics](https://www.figma.com/resources/learn-design/ethics/)
-
-
-[IDEO Design Kit Methods](https://www.designkit.org/methods) (Featured above)
-
-
-[How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d)
-
-
-[A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar)
-
-
-
-
-
+- [IBM Design Thinking](https://www.youtube.com/watch?v=pXtN4y3O35M&feature=youtu.be): IBM's approach to design thinking, emphasizing user-centric solutions and collaborative innovation.
+- [Design Thinking & Ethics](https://www.figma.com/resources/learn-design/ethics/): Figma's exploration of ethical considerations in design, highlighting the importance of responsible and inclusive practices.
+- [IDEO Design Kit Methods](https://www.designkit.org/methods): A collection of human-centered design methods from IDEO.org, offering practical tools for creative problem-solving.
+- [How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d): Shopify's guide on leveraging design thinking to enhance team alignment and project initiation.
+- [A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar): Ted Goas shares a pragmatic approach to product design, integrating real-world constraints and collaborative workflows.
 
 ### **Human-Centered Design**
 
-
-[bookmark](https://www.ideo.com/post/design-kit)
-
-
-[Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit)
-
-
-[What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design)
-
-
-[Using HCD to solve the right problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/)
-
+- [Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit): IDEO.org's go-to guide for mastering human-centered design, packed with practical methods and real-world case studies.
+- [What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design): A deep dive into designing with empathy, ensuring solutions genuinely resonate with users' needs and experiences.
+- [Using HCD to Solve the Right Problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/): Insights on leveraging human-centered design to identify and tackle the core issues that truly matter.
 
 ### **Lean UX**
 
-
-[bookmark](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
-
-
-[Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652) 
-
-
-[The Lean UX Blog](https://www.leanuxbook.com/)
-
-
-[A beginner’s guide to Lean UX ](https://www.invisionapp.com/inside-design/lean-ux/)
-
-
-[The Lean UX Podcast](https://www.leanuxpodcast.com/)
-
-
-[Design Sprints: A Practical Guide](http://www.gv.com/sprint/)
-
-
-[The Importance of Empathy in Lean UX](https://uxplanet.org/empathy-in-ux-design-what-it-is-and-why-its-important-3f6a8919ef10)
-
+- [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" book is your go-to guide for blending Lean and Agile methods to craft user experiences that truly resonate.
+- [A Beginner’s Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision's primer breaks down Lean UX principles, offering practical tips to integrate them into your design process.
+- [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV's guide walks you through the five-day design sprint process to rapidly prototype and test ideas.
 
 ### **Double Diamond**
 
+- [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): The Design Council's original framework illustrating the stages of design thinking, from identifying problems to delivering solutions.
+- [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): An exploration of the Double Diamond model, emphasizing its role in guiding designers through divergent and convergent thinking phases.
 
-[bookmark](https://www.justinmind.com/blog/double-diamond-model-what-is-should-you-use/)
+### Jobs to be Done
 
-
-[The Double Diamond](https://www.thoughtworks.com/insights/blog/double-diamond)
-
-
-[The Double Diamond: A design process for everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond)
-
-
-[The Double Diamond: A design thinking framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework)
-
-
-[Understanding the Double Diamond model of design thinking](https://www.invisionapp.com/inside-design/double-diamond-model/)
-
-
-[The Double Diamond of Design Thinking](https://www.ideo.com/blog/the-double-diamond-of-design-thinking)
-
-
-[A beginner's guide to the Double Diamond Design Process](https://www.canva.com/design-thinking/double-diamond-design-process/)
-
-
-### Jobs to be Done / Job Process
-
-
-[bookmark](https://jtbd.info/)
-
-
-[Jobs to be Done](https://www.invisionapp.com/defined/jobs-to-be-done)
-
-
-[Jobs to be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework)
-
-
-[Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e)
-
-
-[Jobs-to-be-Done: A Beginner's Guide](https://www.productschool.com/blog/jobs-to-be-done-a-beginners-guide/)
-
-
-[How to Use Jobs-to-be-Done to Create Compelling Product Features](https://www.mindtheproduct.com/jobs-to-be-done-create-compelling-product-features/)
-
-
-[Jobs to be Done: A Step-by-Step Guide for Product Managers](https://www.aha.io/blog/jobs-to-be-done-guide-for-product-managers)
-
-
-[Jobs to be Done: a Framework for Customer Needs](https://jobs-to-be-done.com/jobs-to-be-done-a-framework-for-customer-needs-c883cbf61c90)
-
+- [Jobs to Be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework): Intercom's guide on understanding customer motivations to enhance product development.
+- [Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e): An exploration of integrating JTBD into design thinking for user-centric solutions.
+- [Jobs-to-be-Done: A Beginner's Guide](https://www.productschool.com/blog/jobs-to-be-done-a-beginners-guide/): Product School's introduction to JTBD, offering practical insights for product managers.
 
 ---
 
