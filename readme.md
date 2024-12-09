@@ -1,8 +1,6 @@
 
-# Greg’s Design Resources
+_A collection of links to articles, sites and resources that have shaped my professional designing and personal development curated by Greg Robleto (robleto.com)._  
 
-
-_A curated collection of links to articles, sites, and resources that have shaped my professional design work and personal development—compiled by Greg Robleto (www.robleto.com)._ 
 
 
 ## Table of Contents
@@ -31,12 +29,18 @@ Design
 _The 101 of becoming a designer_
 
 
-
+### 
 **Design Principles**
 
-- [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams’ classic take on what makes design _actually_ good—spoiler: it’s not about being flashy.
-- [Principles.Design](https://principles.design/): A treasure trove of design principles to help you make smarter, more user-friendly choices.
-- [Laws of UX](https://lawsofux.com/): Quick-hit psychology lessons for creating designs that feel natural, intuitive, and just plain right.
+
+[10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design) 
+
+
+[Principles.Design](https://principles.deisgn/)
+
+
+[Laws of UX](https://lawsofux.com/)
+
 
 [Principles of Grids](https://grids.obys.agency/)
 
@@ -424,14 +428,7 @@ child_database
 
 ### Business
 
-1. [Sprint](https://www.amazon.com/Sprint-Make-Week-Solve-Problems/dp/150112174X) by Jake Knapp
-2. [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/159253006X) by William Lidwell, Kritina Holden, and Jill Butler
-3. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by Geoffrey Moore
-4. [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Business-Books/dp/0062060244) by Clayton Christensen
-5. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) by Eric Ries
-6. [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) by Jim Collins
-7. [Creativity](https://www.amazon.com/Creativity-Innovators-Genius-Ed-Catmull-ebook/dp/B073X3YG58) by Ed Catmull
-8. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagan
+1. [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/149197196X) by Marty Cagan
 
 ### 
 **Product Designer**
