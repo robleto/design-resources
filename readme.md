@@ -38,8 +38,22 @@ Design
 _The 101 of becoming a designer_
 
 
-
 ---
+
+
+
+
+
+
+> ➡️ ## Design 101  
+>   
+> _The 101 of becoming a designer_
+
+
+	## Design 101
+
+
+	_The 101 of becoming a designer_
 
 
 ### Design Principles
