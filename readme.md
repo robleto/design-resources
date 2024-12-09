@@ -32,37 +32,22 @@ Design
 ![image](https://images.unsplash.com/photo-1471666875520-c75081f42081?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-# 01.  Design 101
+## 01.  Design 101
 
 
-_The 101 of becoming a designer_
+> Design fundamentals shape every aspect of the field. Core principles, terminology, and methods create the essential framework behind effective design decisions. These resources illuminate the foundations of good design.
 
 
 ---
 
 
-
-
-
-
-> ➡️ ## Design 101  
->   
-> _The 101 of becoming a designer_
-
-
-	## Design 101
-
-
-	_The 101 of becoming a designer_
-
-
 ### Design Principles
 
-- [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams’ classic take on what makes design _actually_ good—spoiler: it’s not about being flashy.
-- [Principles.Design](https://principles.design/): A treasure trove of design principles to help you make smarter, more user-friendly choices.
-- [Laws of UX](https://lawsofux.com/): Quick-hit psychology lessons for creating designs that feel natural, intuitive, and just plain right.
-- [Principles of Grids](https://grids.obys.agency/): Obys Agency's educational project offers a fresh take on grid systems, showcasing the layouts they use daily with engaging storytelling.
-- [Design KPIs](https://www.linkedin.com/posts/vitalyfriedman_design-business-kpis-activity-7021371065578737664-EalQ/): Vitaly Friedman's LinkedIn post delves into key performance indicators for design, emphasizing metrics that align design efforts with business goals.
+- [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams' influential guide to what makes design truly good—hint: simplicity trumps flash.
+- [Principles.Design](https://principles.design/): A curated collection of design principles that guides smarter, user-focused decision-making.
+- [Laws of UX](https://lawsofux.com/): Essential psychology principles for creating designs that feel natural and intuitive.
+- [Principles of Grids](https://grids.obys.agency/): Obys Agency's engaging exploration of grid systems, featuring real-world examples from their daily practice.
+- [Design KPIs](https://www.linkedin.com/posts/vitalyfriedman_design-business-kpis-activity-7021371065578737664-EalQ/): Vitaly Friedman explores how to measure design success through metrics that connect creative work to business outcomes.
 
 
 
@@ -74,7 +59,10 @@ _The 101 of becoming a designer_
 ![image](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-# 02.  Design Strategies & Frameworks
+## 02.  Design Strategies & Frameworks
+
+
+> From Design Thinking to Lean UX, proven frameworks guide teams through complex design challenges with systematic, user-centered approaches that transform ideas into impactful solutions.
 
 
 ---
@@ -82,34 +70,34 @@ _The 101 of becoming a designer_
 
 ### **2.1 Design Thinking** 
 
-- [IBM Design Thinking](https://www.youtube.com/watch?v=pXtN4y3O35M&feature=youtu.be): IBM's approach to design thinking, emphasizing user-centric solutions and collaborative innovation.
-- [Design Thinking & Ethics](https://www.figma.com/resources/learn-design/ethics/): Figma's exploration of ethical considerations in design, highlighting the importance of responsible and inclusive practices.
-- [IDEO Design Kit Methods](https://www.designkit.org/methods): A collection of human-centered design methods from IDEO.org, offering practical tools for creative problem-solving.
-- [How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d): Shopify's guide on leveraging design thinking to enhance team alignment and project initiation.
-- [A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar): Ted Goas shares a pragmatic approach to product design, integrating real-world constraints and collaborative workflows.
+- [IBM Design Thinking](https://www.youtube.com/watch?v=pXtN4y3O35M&feature=youtu.be): A practical framework that puts users at the center of problem-solving through collaborative innovation.
+- [Design Thinking & Ethics](https://www.figma.com/resources/learn-design/ethics/): Figma's guide to incorporating ethical considerations into design, focusing on responsible and inclusive decision-making.
+- [IDEO Design Kit Methods](https://www.designkit.org/methods): [IDEO.org](http://ideo.org/)'s comprehensive toolkit of human-centered design methods for effective problem-solving.
+- [How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d): Shopify's practical guide to using design thinking principles for better team alignment and project starts.
+- [A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar): A hands-on approach to product design that balances real-world constraints with effective team collaboration.
 
 ### **2.2 Human-Centered Design**
 
-- [Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit): IDEO.org's go-to guide for mastering human-centered design, packed with practical methods and real-world case studies.
-- [What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design): A deep dive into designing with empathy, ensuring solutions genuinely resonate with users' needs and experiences.
-- [Using HCD to Solve the Right Problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/): Insights on leveraging human-centered design to identify and tackle the core issues that truly matter.
+- [Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit): A comprehensive guide from [IDEO.org](http://ideo.org/) that illuminates human-centered design through practical methods and real-world examples.
+- [What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design): An essential exploration of empathy-driven design that shows how to create solutions that truly connect with users' needs.
+- [Using HCD to Solve the Right Problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/): A strategic look at how human-centered design helps teams identify and address fundamental challenges.
 
 ### **2.3 Lean UX**
 
-- [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" book is your go-to guide for blending Lean and Agile methods to craft user experiences that truly resonate.
-- [A Beginner’s Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision's primer breaks down Lean UX principles, offering practical tips to integrate them into your design process.
-- [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV's guide walks you through the five-day design sprint process to rapidly prototype and test ideas.
+- [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" shows how to blend Lean and Agile methods to create meaningful user experiences.
+- [A Beginner's Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision offers a clear introduction to Lean UX principles with actionable tips for your design workflow.
+- [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV outlines their proven five-day sprint method for rapid prototyping and idea validation.
 
 ### **2.4 Double Diamond**
 
-- [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): The Design Council's original framework illustrating the stages of design thinking, from identifying problems to delivering solutions.
-- [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): An exploration of the Double Diamond model, emphasizing its role in guiding designers through divergent and convergent thinking phases.
+- [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): A foundational framework from the Design Council that maps out the essential stages of design thinking—from problem discovery to solution delivery.
+- [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): A clear breakdown of how the Double Diamond model guides designers through alternating phases of expansive and focused thinking.
 
 ### 2.5 Jobs to be Done
 
-- [Jobs to Be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework): Intercom's guide on understanding customer motivations to enhance product development.
-- [Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e): An exploration of integrating JTBD into design thinking for user-centric solutions.
-- [Jobs-to-be-Done: A Beginner's Guide](https://www.productschool.com/blog/jobs-to-be-done-a-beginners-guide/): Product School's introduction to JTBD, offering practical insights for product managers.
+- [Jobs to Be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework): Intercom's practical guide to understanding what truly motivates customers in product development.
+- [Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e): A clear guide to blending JTBD with design thinking for better user solutions.
+- [Jobs-to-be-Done: A Beginner's Guide](https://www.productschool.com/blog/jobs-to-be-done-a-beginners-guide/): Product School breaks down JTBD essentials with hands-on insights for product teams.
 
 ---
 
@@ -117,11 +105,54 @@ _The 101 of becoming a designer_
 ![image](https://images.unsplash.com/photo-1496449903678-68ddcb189a24?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-# 03. Design Inspiration
+## 03. Design Inspiration
 
 
-Landing Page
+---
 
+
+### Dark Mode Inspiration
+
+- [Dark Design](https://www.dark.design/): A curated collection of the finest dark-themed websites, handpicked by designers for designers.
+- [Dark Mode Design](https://www.darkmodedesign.com/): An elegant showcase of dark mode websites that illuminates the best in low-light design.
+
+### Email Inspiration
+
+- [Really Good Emails](https://reallygoodemails.com/): A curated gallery of exceptional email designs.
+
+### Illustration Inspiration
+
+- [Illustration Universe](https://illustrationuniverse.com/): A curated gallery of stunning product illustrations from around the world.
+
+### Landing Page Inspiration
+
+- [Landingfolio](https://landingfolio.com/): A vast library of landing page designs, templates, and components.
+- [Landings](https://landings.dev/): A curated gallery of landing pages with customizable filters.
+- [Lapa Ninja](https://www.lapa.ninja/): Daily-updated collection of landing page designs.
+
+### Logo / Brand Inspiration
+
+- [Logobook](https://www.logobook.com/): A searchable archive of over 5,000 logos organized by designer, shape, object, and style.
+- [Logo System](https://logosystem.co/): A collection of 900+ logo designs spanning minimalist marks and wordmarks.
+
+### Onboarding Inspiration
+
+- [Refero's Trending User Flows](https://refero.design/search?flow_types%5Bid%5D%5B%5D=1&order=trending): A curated collection of contemporary user flow designs from across the digital landscape.
+
+### Portfolio Inspiration
+
+- [Killer Portfolio](https://killerportfolio.com/): A showcase where exceptional portfolio websites come together.
+- [PersonalSit.es](https://personalsit.es/): A directory where individuals share their personal websites and digital spaces.
+- [Prettyfolio](https://prettyfolio.com/): A collection celebrating remarkable portfolio designs from across the web.
+
+### Website Inspiration
+
+- [One Page Love](https://onepagelove.com/): A gallery dedicated to the best single-page website designs, templates, and resources.
+- [Navbar Gallery](https://www.navbar.gallery/): A curated collection of top-notch navigation bar designs to inspire your next project.
+- [404s](https://www.404s.design/): A showcase of creative and engaging 404 error pages that turn lost visitors into delighted ones.
+- [Footer Design](https://www.footer.design/): A handpicked gallery of exceptional website footers, categorized by type and style for easy inspiration.
+- [Refero](https://refero.design/): A vast collection of design references from top web applications to inspire your next project.
+- [Siteinspire](https://siteinspire.com/): A showcase of the world's finest web designs, offering a diverse range of styles and industries.
 
 ### Design Collections
 
