@@ -162,6 +162,9 @@ Design
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Essential reference for Flexbox properties fro CSS Tricks, examples, and browser support.
 - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): Complete CSS Grid reference from CSS Tricks with examples and compatibility information.
 
+### 📚 Books
+
+
 ### Design Collections
 
 1. [Dribbble](https://dribbble.com/)
@@ -268,89 +271,51 @@ Design
 ---
 
 
+![image](https://images.unsplash.com/photo-1461958508236-9a742665a0d5?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+
 # 05. Typography
 
 
-### **Resources & Articles**
+> Typography extends far beyond font selection—it's the art of creating visual harmony and maximizing readability. These resources delve deep into typography's craft and science, offering essential insights, creative inspiration, and hands-on tools to transform your design work.
 
 
-[Buttericks Practical Typography](https://practicaltypography.com/)
+###  📝 Resources & Articles
 
+- [Butterick's Practical Typography](https://practicaltypography.com/): A clear, comprehensive guide to typography fundamentals and best practices for better text presentation.
+- [Typeface Mechanics 001](https://frerejones.com/blog/typeface-mechanics-001/): Tobias Frere-Jones explores why optical adjustments in typeface design matter more than mathematical precision.
+- [Typeface Mechanics 002](https://frerejones.com/blog/typeface-mechanics-002/): A deeper look into how weight distribution shapes the harmony of typeface design.
+- [Signifier Design Information](https://klim.co.nz/blog/signifier-design-information/): An inside look at the development and inspiration behind the Signifier typeface by Kris Sowersby.
+- [Typelist](https://typelist.upstatement.com/): A handpicked showcase of typefaces in action, perfect for designers seeking fresh typography ideas.
 
-[Typeface – Mechanics 001](https://frerejones.com/blog/typeface-mechanics-001/)
+### 💡 Inspiration/Miscellaneous
 
+- [Discover Typography](https://discover.typography.com/): An interactive gallery for exploring and discovering diverse typefaces.
+- [Behance Typography](https://www.behance.net/search/projects?field=typography&sort=recommended): A curated showcase of typography projects from designers worldwide.
+- [Typewolf](https://www.typewolf.com/): A curated collection of fonts in real-world use, with expert recommendations and examples.
+- [Font Review Journal](https://fontreviewjournal.com/): Thoughtful, detailed reviews of typefaces exploring their design, history, and uses.
+- [100 Days of Fonts](http://100daysoffonts.com/): A daily showcase of creative font combinations to inspire your typography choices.
+- [Fonts in Use](https://fontsinuse.com/): A comprehensive archive documenting typography in real-world design across all media.
+- [Awwwards Free Fonts](https://www.awwwards.com/awwwards/collections/free-fonts/): A carefully selected collection of high-quality free fonts.
 
-[Typeface – Mechanics 002](https://frerejones.com/blog/typeface-mechanics-002/)
+### 🛠️ Tools
 
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en): A browser extension that instantly identifies fonts on any webpage, making it an essential tool for designers.
+- [Wordmark.it](http://wordmark.it/): A simple tool that displays your text in all fonts installed on your computer, helping you compare and choose the perfect typeface.
 
-[Signifier Design Information](https://klim.co.nz/blog/signifier-design-information/)
+### 📚 Books
 
+- [The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) by Robert Bringhurst: The definitive guide to typography that masterfully combines historical insights with practical wisdom.
+- [New Perspectives in Typography](https://www.goodreads.com/book/show/22676114-new-perspectives-in-typography): A fresh look at modern typographic design through diverse contemporary examples.
+- [Designing News](http://www.francescofranchi.com/designingnews) by Francesco Franchi: A deep dive into the intersection of visual storytelling and editorial design.
+- [The Intelligent Lifestyle Magazine](https://gestalten.com/products/the-intelligent-lifestyle-magazine) by Francesco Franchi: A masterclass in crafting sophisticated magazine layouts and editorial design.
+- [Thinking with Type](https://www.goodreads.com/book/show/69736.Thinking_with_Type) by Ellen Lupton: An essential primer on typography fundamentals and their practical application in design.
 
-[Typelist](https://typelist.upstatement.com/)
+### 🆓 Free Fonts
 
-
-### **Inspiration/Miscellaneous** 
-
-
-[Discover Typography](https://discover.typography.com/)
-
-
-[Behance Typography](https://www.behance.net/search/projects?field=typography&sort=recommended)
-
-
-[Typewolf](https://www.typewolf.com/)
-
-
-[Font Review Journal](https://fontreviewjournal.com/)
-
-
-[100 Days of fonts](http://100daysoffonts.com/)
-
-
-[Fonts in Use](https://fontsinuse.com/)
-
-
-[Awwwards Free fonts](https://www.awwwards.com/awwwards/collections/free-fonts/)
-
-
-### **Tools**
-
-
-[Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
-
-
-[Wordmark.it](http://wordmark.it/) 
-
-
-### **Books**
-
-
-[The Elements of Typographic Style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style) - Robert Bringhurst
-
-
-[New Perspectives in Typography](https://www.goodreads.com/book/show/22676114-new-perspectives-in-typography) - 
-
-
-[Designing news](http://www.francescofranchi.com/designingnews) - Francesco Franchi
-
-
-[The Intelligent Lifestyle Magazine](https://gestalten.com/products/the-intelligent-lifestyle-magazine) - Francesco Franchi
-
-
-[Thinking with Type](https://www.goodreads.com/book/show/69736.Thinking_with_Type) - Ellen Lupton
-
-
-### **Free fonts**
-
-
-[Atipo Foundry](http://atipofoundry.com/)
-
-
-[Open Foundry](https://open-foundry.com/fonts)
-
-
-[Google Fonts](https://fonts.google.com/)
-
+- [Atipo Foundry](http://atipofoundry.com/): Features distinctive free and commercial typefaces with modern designs.
+- [Open Foundry](https://open-foundry.com/fonts): Curates high-quality open-source fonts for designers.
+- [Google Fonts](https://fonts.google.com/): Offers an extensive collection of free, open-source fonts for both web and print use.
 
 ---
 
@@ -581,48 +546,27 @@ DNS Settings
 
 
 
-[bookmark](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/)
+### CSS Gradients
 
+- [CSS Gradient Generator](https://angrytools.com/css-generator/gradient/) - A handy tool for creating custom gradients with smooth transitions, perfect for getting just the right blend for your design.
+- [Deep Dive into Radial and Conic Gradients](https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/) - Get your gradients looking sharp with this deep dive into radial and conic styles.
+- [CSS Mix Blend Mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) - Learn how to layer and blend CSS elements for visually striking effects.
 
-### **CSS Gradients**
+### Flexbox
 
+- [Vertically Centering Text](https://www.w3docs.com/snippets/css/how-to-vertically-center-text-with-css.html#use-css-flexbox-8) - Flexbox makes it surprisingly easy to get text perfectly centered, vertically and horizontally.
+- [Using Align-Self](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self) - Tweak the alignment of individual flex items without breaking the whole layout.
 
-[CSS Gradient generator](https://angrytools.com/css-generator/gradient/?%5B%5B%22repeating-linear%22%2C%2245%22%2C%22farthest-side%22%2C%22center%20center%22%2C%2250%22%2C%2250%22%5D%2C%5B%5B%22rgb(255%2C%20255%2C%20255)%22%2C%220%22%5D%2C%5B%22rgb(62%2C%20150%2C%20255)%22%2C%2210%22%5D%5D%5D=)
+### CSS Grid
 
-
-[Deep Dive into Radial and Conic Gradients](https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/)
-
-
-[CSS mix blend mode](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
-
-
-### **Flexbox**
-
-
-[Vertically Centering Text](https://www.w3docs.com/snippets/css/how-to-vertically-center-text-with-css.html#use-css-flexbox-8)
-[Using Align-Self](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)
-
-
-### **CSS Grid**
-
-
-[A Complete Guide to CSS Grid [CSS Tricks]](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - Your one-stop resource for mastering the art of CSS Grid layouts.
 
 ### Fluid Typography
 
-
-[Modern Fluid Typography Using CSS Clamp](https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/) (smashing)
-
-
-[Simplified Fluid Typography](https://css-tricks.com/simplified-fluid-typography/) (css-tricks)
-
-
-[Modern Fluid Typography editor](https://modern-fluid-typography.vercel.app/)
-
-
-[min(), max(), and clamp()](https://web.dev/min-max-clamp/)
-
+- [Modern Fluid Typography Using CSS Clamp](https://www.smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/) - Scale your text smoothly across all screen sizes with modern CSS techniques.
+- [Simplified Fluid Typography](https://css-tricks.com/simplified-fluid-typography/) - A beginner-friendly guide to creating fluid, responsive typography.
+- [Modern Fluid Typography Editor](https://modern-fluid-typography.vercel.app/) - A quick editor to test and tweak fluid typography values in real-time.
+- [min(), max(), and clamp()](https://web.dev/min-max-clamp/) - Use CSS math functions to make typography (and more) ultra-flexible and adaptive.
 
 
 
