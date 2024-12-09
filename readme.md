@@ -108,6 +108,9 @@ Design
 ## 03. Design Inspiration
 
 
+> Explore a world of creative inspiration through expertly curated collections featuring exceptional designs, innovative interfaces, and transformative digital experiences.
+
+
 ---
 
 
@@ -147,12 +150,12 @@ Design
 
 ### Website Inspiration
 
-- [One Page Love](https://onepagelove.com/): A gallery dedicated to the best single-page website designs, templates, and resources.
-- [Navbar Gallery](https://www.navbar.gallery/): A curated collection of top-notch navigation bar designs to inspire your next project.
-- [404s](https://www.404s.design/): A showcase of creative and engaging 404 error pages that turn lost visitors into delighted ones.
-- [Footer Design](https://www.footer.design/): A handpicked gallery of exceptional website footers, categorized by type and style for easy inspiration.
-- [Refero](https://refero.design/): A vast collection of design references from top web applications to inspire your next project.
-- [Siteinspire](https://siteinspire.com/): A showcase of the world's finest web designs, offering a diverse range of styles and industries.
+- [One Page Love](https://onepagelove.com/): Features single-page website designs, templates, and resources.
+- [Navbar Gallery](https://www.navbar.gallery/): Displays navigation bar designs from across the web.
+- [404s](https://www.404s.design/): Shows creative approaches to error page design.
+- [Footer Design](https://www.footer.design/): Presents website footers organized by category.
+- [Refero](https://refero.design/): Houses design references from web applications.
+- [Siteinspire](https://siteinspire.com/): Exhibits web designs across various industries.
 
 ### Design Collections
 
