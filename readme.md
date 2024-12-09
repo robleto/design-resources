@@ -41,13 +41,17 @@ _The 101 of becoming a designer_
 - [Principles of Grids](https://grids.obys.agency/): Obys Agency's educational project offers a fresh take on grid systems, showcasing the layouts they use daily with engaging storytelling.
 - [Design KPIs](https://www.linkedin.com/posts/vitalyfriedman_design-business-kpis-activity-7021371065578737664-EalQ/): Vitaly Friedman's LinkedIn post delves into key performance indicators for design, emphasizing metrics that align design efforts with business goals.
 
----
 
 
-# 02.  Design Strategies & Frameworks
+
+
+	---
 
 
 ![image](https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+
+# 02.  Design Strategies & Frameworks
 
 1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
 2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
