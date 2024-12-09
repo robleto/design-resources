@@ -33,7 +33,3 @@ const commitMessage = process.env.GITHUB_COMMIT_MSG;
 		process.exit(1);
 	}
 })();
-
-
-
-
