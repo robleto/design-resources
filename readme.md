@@ -53,11 +53,31 @@ _The 101 of becoming a designer_
 
 # 02.  Design Strategies & Frameworks
 
+
+> 🔗 Sub-sections  
+> 1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)  
+>   
+> 2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)  
+>   
+> 3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)  
+>   
+> 4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)  
+>   
+> 5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
+
+	1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
+	2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
+	3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)
+	4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)
+	5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
 1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
 2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
 3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)
 4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)
 5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
+
+[Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)  |  [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)  |  [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)  |  [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)   |  [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
+
 
 ### **Design Thinking** 
 
