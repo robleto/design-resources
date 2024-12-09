@@ -1,4 +1,7 @@
 
+# Design Resources
+
+
 _A collection of links to articles, sites and resources that have shaped my professional designing and personal development curated by Greg Robleto (robleto.com)._  
 
 
@@ -29,18 +32,12 @@ Design
 _The 101 of becoming a designer_
 
 
-### 
+
 **Design Principles**
 
-
-[10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design) 
-
-
-[Principles.Design](https://principles.deisgn/)
-
-
-[Laws of UX](https://lawsofux.com/)
-
+- [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams’ classic take on what makes design _actually_ good—spoiler: it’s not about being flashy.
+- [Principles.Design](https://principles.design/): A treasure trove of design principles to help you make smarter, more user-friendly choices.
+- [Laws of UX](https://lawsofux.com/): Quick-hit psychology lessons for creating designs that feel natural, intuitive, and just plain right.
 
 [Principles of Grids](https://grids.obys.agency/)
 
