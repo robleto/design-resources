@@ -70,28 +70,28 @@ Design
 - [How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d): Shopify's practical guide to using design thinking principles for better team alignment and project starts.
 - [A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar): A hands-on approach to product design that balances real-world constraints with effective team collaboration.
 
-### **2.2 Human-Centered Design**
+### **2.2 Double Diamond**
+
+- [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): A foundational framework from the Design Council that maps out the essential stages of design thinking—from problem discovery to solution delivery.
+- [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): A clear breakdown of how the Double Diamond model guides designers through alternating phases of expansive and focused thinking.
+
+### **2.3 Human-Centered Design**
 
 - [Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit): A comprehensive guide from [IDEO.org](http://ideo.org/) that illuminates human-centered design through practical methods and real-world examples.
 - [What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design): An essential exploration of empathy-driven design that shows how to create solutions that truly connect with users' needs.
 - [Using HCD to Solve the Right Problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/): A strategic look at how human-centered design helps teams identify and address fundamental challenges.
 
-### **2.3 Lean UX**
-
-- [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" shows how to blend Lean and Agile methods to create meaningful user experiences.
-- [A Beginner's Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision offers a clear introduction to Lean UX principles with actionable tips for your design workflow.
-- [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV outlines their proven five-day sprint method for rapid prototyping and idea validation.
-
-### **2.4 Double Diamond**
-
-- [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): A foundational framework from the Design Council that maps out the essential stages of design thinking—from problem discovery to solution delivery.
-- [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): A clear breakdown of how the Double Diamond model guides designers through alternating phases of expansive and focused thinking.
-
-### 2.5 Jobs to be Done
+### 2.4 Jobs to be Done
 
 - [Jobs to Be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework): Intercom's practical guide to understanding what truly motivates customers in product development.
 - [Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e): A clear guide to blending JTBD with design thinking for better user solutions.
 - [Jobs-to-be-Done: A Beginner's Guide](https://www.productschool.com/blog/jobs-to-be-done-a-beginners-guide/): Product School breaks down JTBD essentials with hands-on insights for product teams.
+
+### **2.5 Lean UX**
+
+- [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" shows how to blend Lean and Agile methods to create meaningful user experiences.
+- [A Beginner's Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision offers a clear introduction to Lean UX principles with actionable tips for your design workflow.
+- [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV outlines their proven five-day sprint method for rapid prototyping and idea validation.
 
 ---
 
@@ -105,41 +105,41 @@ Design
 > Explore a world of creative inspiration through expertly curated collections featuring exceptional designs, innovative interfaces, and transformative digital experiences.
 
 
-### Dark Mode Inspiration
+### 3.1  Dark Mode Inspiration
 
 - [Dark Design](https://www.dark.design/): A curated collection of the finest dark-themed websites, handpicked by designers for designers.
 - [Dark Mode Design](https://www.darkmodedesign.com/): An elegant showcase of dark mode websites that illuminates the best in low-light design.
 
-### Email Inspiration
+### 3.2  Email Inspiration
 
 - [Really Good Emails](https://reallygoodemails.com/): A curated gallery of exceptional email designs.
 
-### Illustration Inspiration
+### 3.3  Illustration Inspiration
 
 - [Illustration Universe](https://illustrationuniverse.com/): A curated gallery of stunning product illustrations from around the world.
 
-### Landing Page Inspiration
+### 3.4  Landing Page Inspiration
 
 - [Landingfolio](https://landingfolio.com/): A vast library of landing page designs, templates, and components.
 - [Landings](https://landings.dev/): A curated gallery of landing pages with customizable filters.
 - [Lapa Ninja](https://www.lapa.ninja/): Daily-updated collection of landing page designs.
 
-### Logo / Brand Inspiration
+### 3.5  Logo / Brand Inspiration
 
 - [Logobook](https://www.logobook.com/): A searchable archive of over 5,000 logos organized by designer, shape, object, and style.
 - [Logo System](https://logosystem.co/): A collection of 900+ logo designs spanning minimalist marks and wordmarks.
 
-### Onboarding Inspiration
+### 3.6. Onboarding Inspiration
 
 - [Refero's Trending User Flows](https://refero.design/search?flow_types%5Bid%5D%5B%5D=1&order=trending): A curated collection of contemporary user flow designs from across the digital landscape.
 
-### Portfolio Inspiration
+### 3.7. Portfolio Inspiration
 
 - [Killer Portfolio](https://killerportfolio.com/): A showcase where exceptional portfolio websites come together.
 - [PersonalSit.es](https://personalsit.es/): A directory where individuals share their personal websites and digital spaces.
 - [Prettyfolio](https://prettyfolio.com/): A collection celebrating remarkable portfolio designs from across the web.
 
-### Website Inspiration
+### 3.8. Website Inspiration
 
 - [One Page Love](https://onepagelove.com/): Features single-page website designs, templates, and resources.
 - [Navbar Gallery](https://www.navbar.gallery/): Displays navigation bar designs from across the web.
