@@ -1,4 +1,7 @@
 
+![image](https://images.unsplash.com/photo-1533640750342-723c1a4912e2?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+
 # Design Resources
 
 
@@ -26,11 +29,17 @@ Design
 ---
 
 
+![image](https://images.unsplash.com/photo-1471666875520-c75081f42081?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+
 # 01.  Design 101
 
 
 _The 101 of becoming a designer_
 
+
+
+---
 
 
 ### Design Principles
@@ -91,11 +100,13 @@ _The 101 of becoming a designer_
 ---
 
 
-# 
-03. Design Inspiration
+![image](https://images.unsplash.com/photo-1496449903678-68ddcb189a24?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-[bookmark](https://dribbble.com/shots/popular)
+# 03. Design Inspiration
+
+
+Landing Page
 
 
 ### Design Collections
