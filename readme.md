@@ -154,7 +154,7 @@ Design
 ![image](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
 
-## 04. CSS Layout
+## 04. CSS 
 
 
 ### 🗺️ Cheat Sheets
@@ -170,24 +170,8 @@ Design
 1. [Dribbble](https://dribbble.com/)
 2. [Behance](https://www.behance.net/search/projects?field=ui%2Fux)
 
-### **Award Sites**
+### 
 
-
-[bookmark](https://www.awwwards.com/)
-
-1. [Awwwards](https://www.awwwards.com/)
-2. [CSS Design Awards](https://www.cssdesignawards.com/)
-3. [Webby Awards](https://www.webbyawards.com/)
-4. [FWA](http://www.thefwa.com/)
-5. [Web Design Awards](https://www.webdesign-awards.com/)
-6. [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
-7. [The Best Designs](https://www.thebestdesigns.com/)
-8. [CSS Winner](https://www.csswinner.com/)
-9. [Web Design Served](https://www.webdesign-served.com/)
-10. [Siteinspire](https://www.siteinspire.com/)
-11. [Land-Book](https://land-book.com/)
-12. [Bestfolios](https://www.bestfolios.com/home)
-13. [Godly](https://godly.website/)
 
 ---
 
@@ -277,7 +261,7 @@ Design
 # 05. Typography
 
 
-> Typography extends far beyond font selection—it's the art of creating visual harmony and maximizing readability. These resources delve deep into typography's craft and science, offering essential insights, creative inspiration, and hands-on tools to transform your design work.
+> Typography goes beyond fonts to create visual harmony and enhance readability. These resources explore the craft and science, providing insights, inspiration, and tools that elevate design.
 
 
 ###  📝 Resources & Articles
@@ -788,3 +772,22 @@ Newsletter Writing
 
 [My Robleto.com Blog Admin](https://www.robleto.com/admin/#/collections/Here%27s%20the%20Thing...)
 
+
+### **Award Sites**
+
+
+[bookmark](https://www.awwwards.com/)
+
+1. [Awwwards](https://www.awwwards.com/)
+2. [CSS Design Awards](https://www.cssdesignawards.com/)
+3. [Webby Awards](https://www.webbyawards.com/)
+4. [FWA](http://www.thefwa.com/)
+5. [Web Design Awards](https://www.webdesign-awards.com/)
+6. [Webdesign Inspiration](https://www.webdesign-inspiration.com/)
+7. [The Best Designs](https://www.thebestdesigns.com/)
+8. [CSS Winner](https://www.csswinner.com/)
+9. [Web Design Served](https://www.webdesign-served.com/)
+10. [Siteinspire](https://www.siteinspire.com/)
+11. [Land-Book](https://land-book.com/)
+12. [Bestfolios](https://www.bestfolios.com/home)
+13. [Godly](https://godly.website/)
