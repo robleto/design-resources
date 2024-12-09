@@ -33,7 +33,7 @@ _The 101 of becoming a designer_
 
 
 
-**Design Principles**
+### Design Principles
 
 - [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams’ classic take on what makes design _actually_ good—spoiler: it’s not about being flashy.
 - [Principles.Design](https://principles.design/): A treasure trove of design principles to help you make smarter, more user-friendly choices.
@@ -54,32 +54,10 @@ _The 101 of becoming a designer_
 # 02.  Design Strategies & Frameworks
 
 
-> 🔗 Sub-sections  
-> 1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)  
->   
-> 2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)  
->   
-> 3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)  
->   
-> 4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)  
->   
-> 5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
-
-	1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
-	2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
-	3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)
-	4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)
-	5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
-1. [Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)
-2. [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)
-3. [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)
-4. [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)
-5. [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
-
-[Design Thinking](/1da1d6503f7c4bdd9f2d1caa643708fd#df52a9e56fa74104a288a36c0b81f607)  |  [Human-Centered Design](/1da1d6503f7c4bdd9f2d1caa643708fd#6fb2a41a6019427bbef22502e8261277)  |  [Lean UX](/1da1d6503f7c4bdd9f2d1caa643708fd#3bfe610897404b7ab5b2d99988b98f3b)  |  [Double Diamond](/1da1d6503f7c4bdd9f2d1caa643708fd#0d0e745a0a9f47c89e8b374a0e249f5e)   |  [Jobs To Be Done](/1da1d6503f7c4bdd9f2d1caa643708fd#c5578b7a87e643c78959e9e06a97c413)
+---
 
 
-### **Design Thinking** 
+### **2.1 Design Thinking** 
 
 - [IBM Design Thinking](https://www.youtube.com/watch?v=pXtN4y3O35M&feature=youtu.be): IBM's approach to design thinking, emphasizing user-centric solutions and collaborative innovation.
 - [Design Thinking & Ethics](https://www.figma.com/resources/learn-design/ethics/): Figma's exploration of ethical considerations in design, highlighting the importance of responsible and inclusive practices.
@@ -87,24 +65,24 @@ _The 101 of becoming a designer_
 - [How to use Design Thinking for Productive Kickoffs](https://ux.shopify.com/how-to-use-design-thinking-for-productive-kickoffs-4646b802127d): Shopify's guide on leveraging design thinking to enhance team alignment and project initiation.
 - [A Product Design Process for the Real World](https://www.tedgoas.com/blog/product-design-process/?ref=sidebar): Ted Goas shares a pragmatic approach to product design, integrating real-world constraints and collaborative workflows.
 
-### **Human-Centered Design**
+### **2.2 Human-Centered Design**
 
 - [Design Kit, the HCD Toolkit](https://www.ideo.com/post/design-kit): IDEO.org's go-to guide for mastering human-centered design, packed with practical methods and real-world case studies.
 - [What is Human-Centered Design?](https://www.interaction-design.org/literature/topics/human-centered-design): A deep dive into designing with empathy, ensuring solutions genuinely resonate with users' needs and experiences.
 - [Using HCD to Solve the Right Problems](https://aveus.com/use-human-centered-design-to-solve-the-right-problems/): Insights on leveraging human-centered design to identify and tackle the core issues that truly matter.
 
-### **Lean UX**
+### **2.3 Lean UX**
 
 - [Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652): Jeff Gothelf's "Lean UX" book is your go-to guide for blending Lean and Agile methods to craft user experiences that truly resonate.
 - [A Beginner’s Guide to Lean UX](https://www.invisionapp.com/inside-design/lean-ux/): InVision's primer breaks down Lean UX principles, offering practical tips to integrate them into your design process.
 - [Design Sprints: A Practical Guide](http://www.gv.com/sprint/): GV's guide walks you through the five-day design sprint process to rapidly prototype and test ideas.
 
-### **Double Diamond**
+### **2.4 Double Diamond**
 
 - [The Double Diamond: A Design Process for Everyone](https://www.designcouncil.org.uk/news-opinion/double-diamond): The Design Council's original framework illustrating the stages of design thinking, from identifying problems to delivering solutions.
 - [The Double Diamond: A Design Thinking Framework](https://www.interaction-design.org/literature/article/the-double-diamond-a-design-thinking-framework): An exploration of the Double Diamond model, emphasizing its role in guiding designers through divergent and convergent thinking phases.
 
-### Jobs to be Done
+### 2.5 Jobs to be Done
 
 - [Jobs to Be Done Framework](https://www.intercom.com/blog/the-jobs-to-be-done-framework): Intercom's guide on understanding customer motivations to enhance product development.
 - [Jobs-to-be-Done: A Design Thinking Framework](https://uxdesign.cc/jobs-to-be-done-a-design-thinking-framework-5c6b5c848f1e): An exploration of integrating JTBD into design thinking for user-centric solutions.
