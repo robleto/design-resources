@@ -38,10 +38,7 @@ Design
 > Design fundamentals shape every aspect of the field. Core principles, terminology, and methods create the essential framework behind effective design decisions. These resources illuminate the foundations of good design.
 
 
----
-
-
-### Design Principles
+### 1.1 Design Principles
 
 - [10 Principles for "Good Design"](https://www.vitsoe.com/rw/about/good-design): Dieter Rams' influential guide to what makes design truly good—hint: simplicity trumps flash.
 - [Principles.Design](https://principles.design/): A curated collection of design principles that guides smarter, user-focused decision-making.
