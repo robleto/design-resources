@@ -1,0 +1,23 @@
+{
+  "name": "design-resources",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of top tools and resources for designers and developers to elevate their projects.",
+  "scripts": {
+    "notion:sync": "node scripts/notion-sync.js",
+    "notion:update": "node scripts/update-notion.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "2.2.15",
+    "dotenv": "16.4.7",
+    "notion-to-md": "3.1.1"
+  },
+  "keywords": [
+    "design",
+    "resources",
+    "notion",
+    "automation"
+  ],
+  "author": "Greg Robleto",
+  "license": "MIT"
+}
