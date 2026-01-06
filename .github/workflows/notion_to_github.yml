@@ -2,7 +2,7 @@ name: Notion to Github Sync
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 9 * * *' # Runs daily at 9 AM UTC
   workflow_dispatch:
 
 permissions:
