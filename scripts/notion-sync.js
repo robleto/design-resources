@@ -9,10 +9,6 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 
 const pageId = process.env.NOTION_PAGE_ID; // Your Notion page ID
 
-console.log("Notion API Key:", process.env.NOTION_API_KEY);
-console.log("Notion Page ID:", process.env.NOTION_PAGE_ID);
-
-
 async function fetchNotionPage() {
   try {
     const mdBlocks = await n2m.pageToMarkdown(pageId);
