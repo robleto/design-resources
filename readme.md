@@ -280,6 +280,7 @@ Design
 - [Font Review Journal](https://fontreviewjournal.com/): Thoughtful, detailed reviews of typefaces exploring their design, history, and uses.
 - [100 Days of Fonts](http://100daysoffonts.com/): A daily showcase of creative font combinations to inspire your typography choices.
 - [Fonts in Use](https://fontsinuse.com/): A comprehensive archive documenting typography in real-world design across all media.
+- [FontsWiki](https://fontswiki.com/): Searchable font catalog with free alternatives, pairings, and real-world fonts-in-use references.
 - [Awwwards Free Fonts](https://www.awwwards.com/awwwards/collections/free-fonts/): A carefully selected collection of high-quality free fonts.
 
 ### 🛠️ Tools
